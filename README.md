@@ -4,6 +4,7 @@ LinkedIn Jobs Auto Application
 [WIP]
 Linkedin_using_Python.ipynb
 
+
 # Usage
 
 Automation.ipynb is working fine.
@@ -14,6 +15,8 @@ Automation.ipynb is working fine.
 2) Download Compatible Chrome driver along Chrome from this website https://googlechromelabs.github.io/chrome-for-testing/
 
 
+# Application Preview
+ ![Untitled video - Made with Clipchamp](https://github.com/Vashi050197/LinkedIn/assets/60133792/8ef095cc-8df1-42b0-82ba-f19ab5eae30e)
 
 
 
